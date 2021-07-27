@@ -143,4 +143,9 @@
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRATE.png"
   }
-]
+]   "chainId": 1666600000,
+    "address": "0xE554cE769530ca495EC96183Deb2B435d260C3Cc",
+    "symbol": "SQUIRREL",
+    "name": "Squirrel'sCryptoNuts",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/SQUIRREL.png"
